@@ -11,5 +11,5 @@ npm install
 ## Run tests
 
 ```sh
-wdio run ./wdio.conf.js
+npx wdio run ./wdio.conf.js
 ```
