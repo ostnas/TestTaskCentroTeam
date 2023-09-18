@@ -1,0 +1,15 @@
+{
+  "name": "test-task",
+  "version": "1.0.0",
+  "scripts": {
+    "wdio": "wdio run ./wdio.conf.js"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@wdio/browser-runner": "^8.16.10",
+    "@wdio/cli": "^8.16.10",
+    "@wdio/globals": "^8.16.10",
+    "@wdio/mocha-framework": "^8.16.10",
+    "@wdio/spec-reporter": "^8.16.9"
+  }
+}
